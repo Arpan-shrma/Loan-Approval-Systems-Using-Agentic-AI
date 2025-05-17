@@ -75,9 +75,7 @@ This notebook contains the core ML pipeline:
 ```
 ├── data_prepration.ipynb 
 ├── Modelling_and_attention_analysis.ipynb 
-|── README.md 
-└── data/ 
-    └── lending_club_loan_data.csv
+|── README.md
 ```
 ---
 
