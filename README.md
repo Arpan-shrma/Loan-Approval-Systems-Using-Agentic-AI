@@ -72,14 +72,13 @@ This notebook contains the core ML pipeline:
 ---
 
 ## 📂 Directory Structure
-
-. ├── data_prepration.ipynb 
-  ├── Modelling_and_attention_analysis.ipynb 
-  |── README.md 
-  └── data/ 
-      └── lending_club_loan_data.csv
-
-
+```
+├── data_prepration.ipynb 
+├── Modelling_and_attention_analysis.ipynb 
+|── README.md 
+└── data/ 
+    └── lending_club_loan_data.csv
+```
 ---
 
 ## ✨ Future Work
